@@ -9,7 +9,8 @@
   *  使用TypeScript编写代码，让语法更严谨
 
 
-
+github预览：https://vhjfkds.github.io/AccountBook-3-website/
+gitee预览：http://vhjfkds.gitee.io/accountbook-3-website/#/money
 
 ## 安装
 ```
